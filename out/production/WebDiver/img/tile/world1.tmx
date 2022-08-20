@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="tilset.tsx"/>
+ <layer id="1" name="タイルレイヤー1" width="8" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,3,3,3,3,3,3,0,
+0,3,3,3,3,3,3,0,
+0,3,3,3,3,3,3,0,
+0,3,3,3,3,3,3,0,
+0,3,3,3,3,3,3,0,
+0,3,3,3,3,3,3,0
+</data>
+ </layer>
+ <layer id="2" name="タイルレイヤー2" width="8" height="8">
+  <data encoding="csv">
+709,657,657,657,657,657,657,709,
+709,657,657,657,657,657,657,709,
+709,321,0,0,67,68,72,709,
+709,371,0,0,0,0,0,709,
+709,0,0,0,0,0,0,709,
+709,0,0,0,0,0,0,709,
+709,0,0,0,0,0,0,709,
+709,0,0,0,0,0,0,709
+</data>
+ </layer>
+ <layer id="3" name="タイルレイヤー3" width="8" height="8">
+  <data encoding="csv">
+0,0,0,49,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,86,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,667,668,0,0,0,
+0,0,0,717,718,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,721,0,0
+</data>
+ </layer>
+</map>
